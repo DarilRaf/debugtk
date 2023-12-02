@@ -54,4 +54,4 @@ Guest dapat melihat semua fitur pada bookify, namun ada beberapa fitur yang meng
 User dapat menambahkan buku ke private library, memberi review & rating buku, mendonasikan buku, dan gabung ke komunitas literasi. 
 
 ### Admin Komunitas:
-Bertanggung jawab mengelola komunitas dan book catalog. Mereka juga dapat memberi rekomendasi buku ke user pembaca. Dalam fitur bookreview, admin/moderator dapat menghapus review seorang user.
+Bertanggung jawab mengelola komunitas dan book catalog. Mereka juga dapat memberi rekomendasi buku ke user pembaca. Dalam fitur bookreview, admin/moderator dapat menghapus review seorang user. 
